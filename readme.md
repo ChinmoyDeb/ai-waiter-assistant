@@ -101,6 +101,6 @@ The system is designed to scale further with:
 Python 3.11+  
 
 ```bash
-git clone https://github.com/TaherPanbiharwala/Samsung-Prism.git
+git clone [https://github.com/TaherPanbiharwala/Samsung-Prism.git](https://github.com/ChinmoyDeb/ai-waiter-assistant)
 cd restaurant-automator
 pip install -r requirements.txt
